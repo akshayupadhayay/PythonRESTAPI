@@ -1,4 +1,4 @@
-# BigPayRESTAPI
+# PythonRESTAPI
 Automation Suite to test API calls
 
 !Versions:
